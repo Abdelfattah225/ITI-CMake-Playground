@@ -1,0 +1,4 @@
+/home/abdo/ITI/06-CMake/calculatorV2/build/CMakeFiles/calc_lib.dir
+/home/abdo/ITI/06-CMake/calculatorV2/build/CMakeFiles/calc_app.dir
+/home/abdo/ITI/06-CMake/calculatorV2/build/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/calculatorV2/build/CMakeFiles/rebuild_cache.dir

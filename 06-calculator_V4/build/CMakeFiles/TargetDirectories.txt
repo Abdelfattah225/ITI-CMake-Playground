@@ -1,0 +1,10 @@
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/CMakeFiles/rebuild_cache.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/libs/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/libs/CMakeFiles/rebuild_cache.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/libs/calc/CMakeFiles/calc_lib.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/libs/calc/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/libs/calc/CMakeFiles/rebuild_cache.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/src/CMakeFiles/calc_app.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/src/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/06-calculator_V4/build/src/CMakeFiles/rebuild_cache.dir

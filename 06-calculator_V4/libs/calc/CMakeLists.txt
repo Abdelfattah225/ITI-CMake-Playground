@@ -1,0 +1,5 @@
+
+add_library(calc_lib STATIC src/cal.cpp)
+
+target_include_directories(calc_lib PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/inc)
+

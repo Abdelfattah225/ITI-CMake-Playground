@@ -1,0 +1,4 @@
+/home/abdo/ITI/06-CMake/07-CustomProject/build/CMakeFiles/buildInfo.dir
+/home/abdo/ITI/06-CMake/07-CustomProject/build/CMakeFiles/myapp.dir
+/home/abdo/ITI/06-CMake/07-CustomProject/build/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/07-CustomProject/build/CMakeFiles/rebuild_cache.dir

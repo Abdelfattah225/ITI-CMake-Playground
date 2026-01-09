@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/abdo/ITI/06-CMake/06-calculator_V4
+CMAKE_SOURCE_DIR = /home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/abdo/ITI/06-CMake/06-calculator_V4/build
+CMAKE_BINARY_DIR = /home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/abdo/ITI/06-CMake/06-calculator_V4/build/CMakeFiles /home/abdo/ITI/06-CMake/06-calculator_V4/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build/CMakeFiles /home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/abdo/ITI/06-CMake/06-calculator_V4/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -115,6 +115,32 @@ preinstall/fast:
 depend:
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
+
+#=============================================================================
+# Target rules for targets named info
+
+# Build rule for target.
+info: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 info
+.PHONY : info
+
+# fast build rule for target.
+info/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/info.dir/build.make CMakeFiles/info.dir/build
+.PHONY : info/fast
+
+#=============================================================================
+# Target rules for targets named run
+
+# Build rule for target.
+run: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 run
+.PHONY : run
+
+# fast build rule for target.
+run/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/build
+.PHONY : run/fast
 
 #=============================================================================
 # Target rules for targets named calc_lib
@@ -150,6 +176,8 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... info"
+	@echo "... run"
 	@echo "... calc_app"
 	@echo "... calc_lib"
 .PHONY : help

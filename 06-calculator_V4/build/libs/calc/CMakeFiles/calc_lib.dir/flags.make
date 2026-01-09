@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/abdo/ITI/06-CMake/06-calculator_V4/libs/calc/inc
+CXX_INCLUDES = -I/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/calc/inc
 
 CXX_FLAGS = -std=c++17
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/abdo/ITI/06-CMake/06-calculator_V4
+# Install script for directory: /home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,12 +44,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/abdo/ITI/06-CMake/06-calculator_V4/build/libs/cmake_install.cmake")
+  include("/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build/libs/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/abdo/ITI/06-CMake/06-calculator_V4/build/src/cmake_install.cmake")
+  include("/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build/src/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/abdo/ITI/06-CMake/06-calculator_V4/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

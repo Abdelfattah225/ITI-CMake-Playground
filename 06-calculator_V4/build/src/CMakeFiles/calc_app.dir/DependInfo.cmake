@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/abdo/ITI/06-CMake/06-calculator_V4/src/main.cpp" "src/CMakeFiles/calc_app.dir/main.cpp.o" "gcc" "src/CMakeFiles/calc_app.dir/main.cpp.o.d"
+  "/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/src/main.cpp" "src/CMakeFiles/calc_app.dir/main.cpp.o" "gcc" "src/CMakeFiles/calc_app.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/abdo/ITI/06-CMake/06-calculator_V4/build/libs/calc/CMakeFiles/calc_lib.dir/DependInfo.cmake"
+  "/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build/libs/calc/CMakeFiles/calc_lib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

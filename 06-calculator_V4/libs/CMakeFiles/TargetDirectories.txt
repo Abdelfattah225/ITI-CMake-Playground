@@ -1,0 +1,12 @@
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/CMakeFiles/info.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/CMakeFiles/run.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/CMakeFiles/rebuild_cache.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/libs/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/libs/CMakeFiles/rebuild_cache.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/libs/calc/CMakeFiles/calc_lib.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/libs/calc/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/libs/calc/CMakeFiles/rebuild_cache.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/src/CMakeFiles/calc_app.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/src/CMakeFiles/edit_cache.dir
+/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs/src/CMakeFiles/rebuild_cache.dir

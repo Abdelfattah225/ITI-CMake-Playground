@@ -1,0 +1,17 @@
+# Ignore a specific file
+secrets.txt
+
+# Ignore a folder
+node_modules/
+__pycache__/
+
+build/
+
+
+# Ignore by extension
+*.log
+*.env
+
+# Ignore all files in a folder except one
+logs/*
+!logs/.gitkeep

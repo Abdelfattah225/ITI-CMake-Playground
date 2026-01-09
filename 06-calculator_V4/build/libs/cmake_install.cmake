@@ -1,4 +1,4 @@
-# Install script for directory: /home/abdo/ITI/06-CMake/06-calculator_V4/libs
+# Install script for directory: /home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/libs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,6 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/abdo/ITI/06-CMake/06-calculator_V4/build/libs/calc/cmake_install.cmake")
+  include("/home/abdo/ITI/06-CMake/ITI-CMake-Playground/06-calculator_V4/build/libs/calc/cmake_install.cmake")
 endif()
 
